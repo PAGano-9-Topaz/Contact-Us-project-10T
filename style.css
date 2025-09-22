@@ -1,0 +1,51 @@
+body {
+    background-image: url(AKO.png);
+	background-size: cover;
+	background-attachment:fixed ;
+} 
+.Navname {
+	animation: bounceInLeft;
+	animation-duration: 1s;
+}
+.Photo1 {
+	width: 80px;
+    padding: 5px;
+}
+.Welcome2 {
+	background: rgba(0%, 0%, 0%, .7);
+	border-radius: 10px;
+}
+.Choices {
+	margin: 20px;
+}
+.navbar {
+	position: fixed;
+    border-bottom: 2px black solid;
+}
+.button1 {
+	height: 40; 
+	width: 270px;
+}
+.text1 {
+    font-size:300%;
+}
+.text3 {
+    font-size:400% ;
+}
+.text6 {
+   font-size: 80%; 
+}
+.card {
+    border-bottom: 5px orange solid !important;
+    background-color:lightgoldenrodyellow !important;
+}
+.carlsdad {
+    display: inline-flex;
+}
+
+.End {
+    background-color: aliceblue !important;
+    border-radius: 5px;
+    border-left: 5px orange solid;
+    padding: 8px;
+}
